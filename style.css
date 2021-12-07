@@ -1,6 +1,6 @@
 body {
   min-height: 1100px;
-  background-color: rgb(255, 230, 197);
+  background-color: rgb(0, 0, 0);
 }
 #profile {
   background: url("https://images.pexels.com/photos/1449775/pexels-photo-1449775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
@@ -12,7 +12,7 @@ body {
   opacity: 0.9;
 }
 .v {
-  color: rgb(58, 58, 255);
+  color: rgb(177, 226, 0);
 }
 .b {
   color: rgb(255, 0, 0);
@@ -32,4 +32,11 @@ h3 {
 }
 .iyehh {
   color: black;
+}
+.logo {
+  color: rgb(255, 255, 255);
+}
+.nav {
+  background-color: black;
+  color: rgb(177, 226, 0);
 }
